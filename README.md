@@ -19,5 +19,9 @@ Stylus :
 npm run watch-stylus
 ```
 
+# output
+
+![alt tag](./Output.JPG)
+
 
 
